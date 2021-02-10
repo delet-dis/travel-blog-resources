@@ -6,10 +6,10 @@
       "date": "August 2, 2019",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar1.jpg"
+        "avatar": "/avatars/avatar1.jpg"
       },
       "description": "G'day mate! Welcome to Sydney, where you come for the beaches, but stay for the restaurants, the culture and the good vibes (but also, the beaches). We promise we're friendly here, but between the one-way streets, our four different forms of public transport and the fact that our urban design is more ‘bowl of spaghetti’ than ‘grid’, we know it can all be a little bit confusing. Here’s how to survive and thrive in the city, whether you’re here for a few days, or the rest of your life.<br><br>Looking to take a break from city life? Head to these glorious campsites near Sydney, or stretch into the weekend on these short getaways."
     },
@@ -19,10 +19,10 @@
       "date": "June 13, 2018",
       "views": 1893,
       "rating": 4.2,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/new_york.jpg",
+      "image": "/images/new_york.jpg",
       "author": {
         "name": "Charles Landebert",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar2.jpg"
+        "avatar": "/avatars/avatar2.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -32,10 +32,10 @@
       "date": "February 12, 2017",
       "views": 1326,
       "rating": 4.3,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/london.jpg",
+      "image": "/images/london.jpg",
       "author": {
         "name": "Euterpe Renata",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar3.jpg"
+        "avatar": "/avatars/avatar3.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -45,10 +45,10 @@
       "date": "March 1, 2016",
       "views": 2419,
       "rating": 4.1,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/paris.jpg",
+      "image": "/images/paris.jpg",
       "author": {
         "name": "Hadyn Armida",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar4.jpg"
+        "avatar": "/avatars/avatar4.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -58,10 +58,10 @@
       "date": "June 25, 2015",
       "views": 1124,
       "rating": 4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Morgan Cortney",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar5.jpg"
+        "avatar": "/avatars/avatar5.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -71,10 +71,10 @@
       "date": "November 29, 2014",
       "views": 2549,
       "rating": 3.8,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Nisha Felicia",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar6.jpg"
+        "avatar": "/avatars/avatar6.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -84,10 +84,10 @@
       "date": "April 6, 2013",
       "views": 1356,
       "rating": 5,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Jaime Pramod",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar7.jpg"
+        "avatar": "/avatars/avatar7.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -97,10 +97,10 @@
       "date": "July 17, 2012",
       "views": 1589,
       "rating": 4.3,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Eva Sofie",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar8.jpg"
+        "avatar": "/avatars/avatar8.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -110,10 +110,10 @@
       "date": "June 27, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar9.jpg"
+        "avatar": "/avatars/avatar9.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -123,10 +123,10 @@
       "date": "January 31, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar10.jpg"
+        "avatar": "/avatars/avatar10.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -136,10 +136,10 @@
       "date": "April 22, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar11.jpg"
+        "avatar": "/avatars/avatar11.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -149,10 +149,10 @@
       "date": "December 5, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar12.jpg"
+        "avatar": "/avatars/avatar12.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -162,10 +162,10 @@
       "date": "September 16, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar13.jpg"
+        "avatar": "/avatars/avatar13.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -175,10 +175,10 @@
       "date": "June 3, 2010",
       "views": 2687,
       "rating": 4.4,
-      "image": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/images/sydney_image.jpg",
+      "image": "/images/sydney_image.jpg",
       "author": {
         "name": "Grayson Wells",
-        "avatar": "https://raw.githubusercontent.com/delet-dis/travel-blog-resources/fcbb0f32039078da15819f1976535787cdeb326c/avatars/avatar14.jpg"
+        "avatar": "/avatars/avatar14.jpg"
       },
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
