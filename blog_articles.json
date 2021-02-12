@@ -58,7 +58,7 @@
       "date": "June 25, 2015",
       "views": 1124,
       "rating": 4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/los_angeles.jpg",
       "author": {
         "name": "Morgan Cortney",
         "avatar": "/avatars/avatar5.jpg"
@@ -71,7 +71,7 @@
       "date": "November 29, 2014",
       "views": 2549,
       "rating": 3.8,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/hong_kong.jpeg",
       "author": {
         "name": "Nisha Felicia",
         "avatar": "/avatars/avatar6.jpg"
@@ -84,7 +84,7 @@
       "date": "April 6, 2013",
       "views": 1356,
       "rating": 5,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/melbourne.jpeg",
       "author": {
         "name": "Jaime Pramod",
         "avatar": "/avatars/avatar7.jpg"
@@ -97,7 +97,7 @@
       "date": "July 17, 2012",
       "views": 1589,
       "rating": 4.3,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/chicago.jpg",
       "author": {
         "name": "Eva Sofie",
         "avatar": "/avatars/avatar8.jpg"
@@ -110,7 +110,7 @@
       "date": "June 27, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/lisbon.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar9.jpg"
@@ -123,7 +123,7 @@
       "date": "January 31, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/barcelona.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar10.jpg"
@@ -136,7 +136,7 @@
       "date": "April 22, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/madrid.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar11.jpg"
@@ -149,7 +149,7 @@
       "date": "December 5, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/miami.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar12.jpg"
@@ -162,7 +162,7 @@
       "date": "September 16, 2011",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/montreal.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar13.jpg"
@@ -175,7 +175,7 @@
       "date": "June 3, 2010",
       "views": 2687,
       "rating": 4.4,
-      "image": "/images/sydney_image.jpg",
+      "image": "/images/boston.jpg",
       "author": {
         "name": "Grayson Wells",
         "avatar": "/avatars/avatar14.jpg"
